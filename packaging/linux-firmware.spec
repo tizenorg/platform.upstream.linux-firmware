@@ -13,6 +13,12 @@ BuildArch:      noarch
 %description
 This package contains the firmware required by various devices
 
+%package ivi
+Summary:	Firmware files for Tizen IVI platform drivers
+
+%description ivi
+Firmware files for Tizen IVI platform drivers
+
 %prep
 %setup -q
 find . -type f -exec chmod 0644 {} ';'
@@ -31,4 +37,8 @@ cp -a * %{buildroot}/lib/firmware/
 %defattr(-,root,root,-)
 /lib/firmware/*
 
-
+%files ivi
+# NOTE: make sure all the firmware we use in this RPM is documented in
+# the 'ivi-firmware.txt' file.
+/lib/firmware/iwlwifi-6000g2b-6.ucode
+/lib/firmware/LICENCE.iwlwifi_firmware
