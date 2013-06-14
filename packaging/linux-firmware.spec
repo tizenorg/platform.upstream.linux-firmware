@@ -15,6 +15,7 @@ This package contains the firmware required by various devices
 
 %package ivi
 Summary:	Firmware files for Tizen IVI platform drivers
+Conflicts:	linux-firmware
 
 %description ivi
 Firmware files for Tizen IVI platform drivers
