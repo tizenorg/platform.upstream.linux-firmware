@@ -1,0 +1,9 @@
+Change-Id: I80d9100ae4434018a1f74e596d3789bfbdecc4fe
+Code-Review+1: Tracy Graydon <tracy.graydon@intel.com>
+Verified+1: Tracy Graydon <tracy.graydon@intel.com>
+Code-Review+2: Anas Nashif <anas.nashif@intel.com>
+Submitted-by: Anas Nashif <anas.nashif@intel.com>
+Submitted-at: Tue, 18 Jun 2013 11:13:23 -0700
+Reviewed-on: https://review.tizen.org/gerrit/4004
+Project: platform/upstream/linux-firmware
+Branch: refs/heads/tizen
