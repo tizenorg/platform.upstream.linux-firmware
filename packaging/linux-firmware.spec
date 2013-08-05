@@ -1,5 +1,5 @@
 Name:           linux-firmware
-Version:        20121007
+Version:        20130805
 Release:        1
 Summary:        Firmware for various devices
 
