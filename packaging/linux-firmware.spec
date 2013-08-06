@@ -46,4 +46,6 @@ cp -a * %{buildroot}/lib/firmware/
 # NOTE: make sure all the firmware we use in this RPM is documented in
 # the 'ivi-firmware.txt' file.
 /lib/firmware/iwlwifi-6000g2b-6.ucode
+/lib/firmware/iwlwifi-7260-7.ucode
+/lib/firmware/iwlwifi-3160-7.ucode
 /lib/firmware/LICENCE.iwlwifi_firmware
