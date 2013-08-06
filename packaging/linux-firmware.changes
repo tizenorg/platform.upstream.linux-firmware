@@ -1,3 +1,6 @@
+* Tue Aug 06 2013 Artem Bityutskiy <artem.bityutskiy@linux.intel.com> upstream/20130805@1a71475
+- Add Wilkins Peak Intel WiFi firmware to the linux-firmware-ivi RPM
+
 * Mon Aug 05 2013 Anas Nashif <anas.nashif@intel.com> upstream/20130805@1a71475
 - Update to latest upstream
 
