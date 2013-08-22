@@ -6,3 +6,6 @@ Please, keep it up-to-date.
 2. iwlwifi-3160-7.ucode, iwlwifi-7260-7.ucode - Firmware for Intel WiFi
    (Wilkins Peak 1/2 WiFi cards), present in BayTrail-based IVI
    platforms.
+3. intel/ibt-hw-37.7.10-fw-1.80.2.3.d.bseq, intel/ibt-hw-37.7.bseq -
+   Bluetooth firmware for the Intel 7260 combo chip, used in
+   BayTrail-based IVI platforms.
