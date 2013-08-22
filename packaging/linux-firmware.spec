@@ -48,4 +48,7 @@ cp -a * %{buildroot}/lib/firmware/
 /lib/firmware/iwlwifi-6000g2b-6.ucode
 /lib/firmware/iwlwifi-7260-7.ucode
 /lib/firmware/iwlwifi-3160-7.ucode
+/lib/firmware/intel/ibt-hw-37.7.10-fw-1.80.2.3.d.bseq
+/lib/firmware/intel/ibt-hw-37.7.bseq
+/lib/firmware/LICENCE.ibt_firmware
 /lib/firmware/LICENCE.iwlwifi_firmware
