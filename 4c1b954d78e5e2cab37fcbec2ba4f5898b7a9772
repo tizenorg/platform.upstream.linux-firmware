@@ -1,0 +1,8 @@
+Code-Review+2: Artem Bityutskiy <artem.bityutskiy@linux.intel.com>
+Verified+1: Artem Bityutskiy <artem.bityutskiy@linux.intel.com>
+Code-Review+1: Mikko Ylinen <mikko.ylinen@intel.com>
+Submitted-by: Artem Bityutskiy <artem.bityutskiy@linux.intel.com>
+Submitted-at: Fri, 23 Aug 2013 06:22:31 -0700
+Reviewed-on: https://review.tizen.org/gerrit/8536
+Project: platform/upstream/linux-firmware
+Branch: refs/heads/tizen
