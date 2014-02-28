@@ -1,0 +1,9 @@
+Code-Review+2: Mikko Ylinen <mikko.ylinen@intel.com>
+Code-Review+1: Kévin THIERRY <kevin.thierry@open.eurogiciel.org>
+Code-Review+1: Jin Song <jin.kyu.song@linux.intel.com>
+Verified+1: Jin Song <jin.kyu.song@linux.intel.com>
+Submitted-by: Mikko Ylinen <mikko.ylinen@intel.com>
+Submitted-at: Fri, 28 Feb 2014 02:16:52 -0800
+Reviewed-on: https://review.tizen.org/gerrit/16907
+Project: platform/upstream/linux-firmware
+Branch: refs/heads/tizen
