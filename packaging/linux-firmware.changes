@@ -1,3 +1,9 @@
+* Fri Feb 28 2014 Mikko Ylinen <mikko.ylinen@intel.com> bdbcb06
+- packaging: update Wilkins Peak FW in linux-firmware-ivi
+- Update to latest upstream (date: 2014-02-22).
+- Switch 'upstream' (with full git history) to
+  git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git
+
 * Thu Aug 22 2013 Artem Bityutskiy <artem.bityutskiy@linux.intel.com> upstream/20130805@1a71475
 - Add Bluetooth firmware for the Intel 7260 combo chip to the
   linux-firmware-ivi package, fixes TIVI-1613
