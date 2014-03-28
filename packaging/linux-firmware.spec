@@ -52,3 +52,4 @@ cp -a * %{buildroot}/lib/firmware/
 /lib/firmware/intel/ibt-hw-37.7.bseq
 /lib/firmware/LICENCE.ibt_firmware
 /lib/firmware/LICENCE.iwlwifi_firmware
+/lib/firmware/v4l-cx23885-avcore-01.fw
