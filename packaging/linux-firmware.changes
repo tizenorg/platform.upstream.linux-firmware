@@ -1,3 +1,6 @@
+* Mon Mar 31 2014 Mikko Ylinen <mikko.ylinen@intel.com> accepted/tizen/ivi/release/20140312.120604@b626bf0
+- packaging: add Conexant video decoder in linux-firmware-ivi
+
 * Fri Feb 28 2014 Mikko Ylinen <mikko.ylinen@intel.com> bdbcb06
 - packaging: update Wilkins Peak FW in linux-firmware-ivi
 - Update to latest upstream (date: 2014-02-22).
