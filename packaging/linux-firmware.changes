@@ -1,3 +1,6 @@
+* Tue Apr 08 2014 Mikko Ylinen <mikko.ylinen@intel.com> accepted/tizen/ivi/20140401.175821@00a5539
+- Update Intel Wireless Bluetooth chip firmware. Fixes: TIVI-2797.
+
 * Mon Mar 31 2014 Mikko Ylinen <mikko.ylinen@intel.com> accepted/tizen/ivi/release/20140312.120604@b626bf0
 - packaging: add Conexant video decoder in linux-firmware-ivi
 
