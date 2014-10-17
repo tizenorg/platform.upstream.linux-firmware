@@ -3,7 +3,7 @@ Please, keep it up-to-date.
 
 1. iwlwifi-6000g2b-6.ucode - firmware for Intel WiFi. The driver that uses this
    firmware is "iwlwifi". Used in Nexcomm VTC1000, VMT1000 and NDiS-166 devices.
-2. iwlwifi-3160-8.ucode, iwlwifi-7260-8.ucode - Firmware for Intel WiFi
+2. iwlwifi-3160-9.ucode, iwlwifi-7260-9.ucode - Firmware for Intel WiFi
    (Wilkins Peak 1/2 WiFi cards), present in BayTrail-based IVI
    platforms.
 3. intel/ibt-hw-37.7.10-fw-1.80.2.3.d.bseq, intel/ibt-hw-37.7.bseq -
