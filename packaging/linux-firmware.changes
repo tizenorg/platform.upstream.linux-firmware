@@ -1,3 +1,6 @@
+* Tue Nov 04 2014 Mikko Ylinen <mikko.ylinen@intel.com> fec9266
+- Rebase and drop 92106cb50da962586bf998e3f472e57ea6796bab (using upstream BT FW from now on)
+
 * Tue Apr 08 2014 Mikko Ylinen <mikko.ylinen@intel.com> accepted/tizen/ivi/20140401.175821@00a5539
 - Update Intel Wireless Bluetooth chip firmware. Fixes: TIVI-2797.
 
