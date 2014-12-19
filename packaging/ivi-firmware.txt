@@ -12,3 +12,4 @@ Please, keep it up-to-date.
 4. v4l-cx23885-avcore-01.fw - firmware for Conexant cx23885 video decoder.
    'cx25840' kernel module loads it. VTC-1010 has MPX-885 board which uses
    cx23885 chip in it.
+5. rtl_nic/rtl8168g-2.fw - RealTek 8169/8168/8101 ethernet driver.

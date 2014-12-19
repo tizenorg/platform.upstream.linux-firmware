@@ -53,3 +53,4 @@ cp -a * %{buildroot}/lib/firmware/
 /lib/firmware/LICENCE.ibt_firmware
 /lib/firmware/LICENCE.iwlwifi_firmware
 /lib/firmware/v4l-cx23885-avcore-01.fw
+/lib/firmware/rtl_nic/rtl8168g-2.fw
