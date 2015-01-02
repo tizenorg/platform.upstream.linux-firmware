@@ -1,11 +1,11 @@
 Name:           linux-firmware
 Version:        20141009
-Release:        1
+Release:        0
 Summary:        Firmware for various devices
 
 License:        Redistributable, no modification permitted
 Url:            ftp://ftp.kernel.org//pub/linux/kernel/people/dwmw2/firmware/
-Group:          System/Kernel
+Group:          Base / Hardware Adaptation
 Source0:        ftp://ftp.kernel.org//pub/linux/kernel/people/dwmw2/firmware/linux-firmware-%{version}.tar.bz2
 Source1001: 	linux-firmware.manifest
 BuildRequires:  fdupes
